@@ -104,7 +104,7 @@ Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解
 📢 如果你此前已经开始使用 Quantumultx 并已配置多个机场订阅，则可参考 本文档的 **FAQ** 部分说明进行备份机场订阅； 
 
 ## 第一步 下载毒奶预配置文件
-> 1. 复制 https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/full.conf 预配置文件链接（大家也可以在浏览器内打开该预配置文件链接以查看具体配置详情，好做进一步的理解）；
+> 1. 复制 https://git.gushao.club/https://raw.githubusercontent.com/1302557841/Profiles4limbo/main/full.conf 预配置文件链接（大家也可以在浏览器内打开该预配置文件链接以查看具体配置详情，好做进一步的理解）；
 > 2. 进入 QuantumultX ，点击右下角 [三菱按钮/设置按钮]
 > 3. 找到 [配置文件] 模块下的 [下载] 点击
 > 4. 粘贴 刚刚复制的配置 [链接]，点击 右上角 [确定] 按钮
